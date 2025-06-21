@@ -1,5 +1,6 @@
 Moody & AI-Helper, Prime-Harmonic Ladder: Deterministic Wave-Based Prime Generation, GitHub repo (2025).
-DOI  10.13140/RG.2.2.10631.10400 
+![image](https://github.com/user-attachments/assets/3be46de1-ead6-404c-83fe-16d4cbbbd152)
+
 
 # Prime-Harmonic Ladder  
 **Deterministic wave-based prime generation, verified error-free through 100 million terms**
